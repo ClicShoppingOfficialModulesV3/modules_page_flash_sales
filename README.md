@@ -50,4 +50,5 @@ All informations about the ClicShopping
 
  trademark License info : https://www.clicshopping.org/forum/trademark/ 
 
+![image](https://github.com/ClicShoppingOfficialModulesV3/modules_page_flash_sales/blob/master/ModuleInfosJson/image.png)
 
