@@ -28,8 +28,7 @@ If you have another template, you must copy the template files inside your new t
 Implementation:
 
 - Menu design / Products Listing / Flash Sales
-- link to access: https://monsite/myAdmin/index.php?FlashSales/Sales
-- Create a link via the page manager with this element : index.php?FlashSales/Sales  as link.
+- Create a link via the page manager with this element : index.php?FlashSales&Flash  as link.
 - Activate the module
 
 - Copy the modules_page_flash_sales.json into ClicShopping/Work/Cache/Github (manual installation)
