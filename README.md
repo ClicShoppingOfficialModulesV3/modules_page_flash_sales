@@ -28,7 +28,7 @@ If you have another template, you must copy the template files inside your new t
 Implementation:
 
 - Menu design / Products Listing / Flash Sales
-- link to access: https://monsite/myAdmin/index.php?FlaSales/Sales
+- link to access: https://monsite/myAdmin/index.php?FlashSales/Sales
 - Create a link via the page manager with this element : index.php?FlashSales/Sales  as link.
 - Activate the module
 
