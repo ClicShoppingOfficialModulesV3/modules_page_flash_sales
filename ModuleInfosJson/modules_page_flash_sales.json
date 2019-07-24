@@ -3,6 +3,7 @@
   "type":           "modules_page_flash_sales",
   "vendor":			"modules_page_flash_salesv",
   "is_free":   "no",
+  "is_core":   "no",
   "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/167-modules_page_flash_sales/",
   "version":			1.0,
   "req_core_version":	3.0,
